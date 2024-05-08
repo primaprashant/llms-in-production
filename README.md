@@ -16,6 +16,7 @@ I'll keep the list updated as and when I find new blogs. If you find a blog that
 
 Title | Company | Date
 ------|---------|-----
+[Building DoorDash’s Product Knowledge Graph with Large Language Models](https://doordash.engineering/2024/04/23/building-doordashs-product-knowledge-graph-with-large-language-models/) | DoorDash | Apr, 2024
 [Leveraging LLMs in Production: Looking Back, Going Forward](https://engineering.mercari.com/en/blog/entry/20231219-leveraging-llms-in-production-looking-back-going-forward/) | Mercari | Dec, 2023
 [CoEdIT: State-of-the-Art Text Editing With Fewer Parameters](https://www.grammarly.com/blog/engineering/coedit-text-editing/) | Grammarly | Dec, 2023
 [LLM-powered data classification for data entities at scale](https://engineering.grab.com/llm-powered-data-classification) | Grab | Oct, 2023
