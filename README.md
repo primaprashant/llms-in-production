@@ -16,10 +16,20 @@ I'll keep the list updated as and when I find new blogs. If you find a blog that
 
 Title | Company | Date
 ------|---------|-----
+[Leveraging RAG-powered LLMs for Analytical Tasks](https://engineering.grab.com/transforming-the-analytics-landscape-with-RAG-powered-LLM) | Grab | Oct, 2024
+[Fine-Tuning an LLM to Extract Dynamically Specified Attributes](https://engineering.mercari.com/en/blog/entry/20240913-fine-tuning-an-llm-to-extract-dynamically-specified-attributes/) | Mercari | Sep, 2024
+[QueryGPT – Natural Language to SQL Using Generative AI](https://www.uber.com/en-JP/blog/query-gpt/?uclick_id=eaf82e80-940f-4baf-87d6-76c4fbd37f1a) | Uber | Sep, 2024
+[Supercharging Discovery in Search with LLMs](https://tech.instacart.com/supercharging-discovery-in-search-with-llms-556c585d4720) | Instacart | Sep, 2024
+[Path to high-quality LLM-based Dasher support automation](https://careers.doordash.com/blog/large-language-modules-based-dasher-support-automation/) | DoorDash | Sep, 2024
+[Using Predictive and Gen AI to Improve Product Categorization at Walmart](https://medium.com/walmartglobaltech/using-predictive-and-gen-ai-to-improve-product-categorization-at-walmart-dc9821c6a481) | Walmart | Jul, 2024
+[Hermes: A Text-to-SQL solution at Swiggy](https://bytes.swiggy.com/hermes-a-text-to-sql-solution-at-swiggy-81573fb4fb6e) | Swiggy | Jul, 2024
+[Bringing AI-powered answers and summaries to file previews on the web](https://dropbox.tech/machine-learning/bringing-ai-powered-answers-and-summaries-to-file-previews-on-the-web) | Dropbox | Jul, 2024
+[LLM-powered data classification for data entities at scale](https://engineering.grab.com/llm-powered-data-classification) | Grab | Jul, 2024
+[Using AI to Understand the Complexities and Pitfalls of Real Estate Data](https://www.zillow.com/tech/using-ai-to-understand-the-complexities-and-pitfalls-of-real-estate-data/) | Zillow | Apr, 2024
 [Building DoorDash’s Product Knowledge Graph with Large Language Models](https://doordash.engineering/2024/04/23/building-doordashs-product-knowledge-graph-with-large-language-models/) | DoorDash | Apr, 2024
+[Navigating Fair Housing Guardrails in LLMs](https://www.zillow.com/tech/navigating-fair-housing-guardrails-in-llms/) | Zillow | Jan, 2024
 [Leveraging LLMs in Production: Looking Back, Going Forward](https://engineering.mercari.com/en/blog/entry/20231219-leveraging-llms-in-production-looking-back-going-forward/) | Mercari | Dec, 2023
 [CoEdIT: State-of-the-Art Text Editing With Fewer Parameters](https://www.grammarly.com/blog/engineering/coedit-text-editing/) | Grammarly | Dec, 2023
-[LLM-powered data classification for data entities at scale](https://engineering.grab.com/llm-powered-data-classification) | Grab | Oct, 2023
 [Let AI Entertain You: Increasing User Engagement with Generative AI and Rejection Sampling](https://engblog.nextdoor.com/let-ai-entertain-you-increasing-user-engagement-with-generative-ai-and-rejection-sampling-50a402264f56) | Nextdoor | Oct, 2023
 [Dont you (forget NLP): Prompt injection with control characters in ChatGPT](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm) | Dropbox | Jul, 2023
 [From reviews to insights: Building analytic applications with Large Language Models in e-commerce](https://medium.com/data-science-at-microsoft/from-reviews-to-insights-building-analytic-applications-with-large-language-models-in-e-commerce-ad28ee60e2a7) | Microsoft | Jul, 2023
