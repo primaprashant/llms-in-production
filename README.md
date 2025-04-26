@@ -16,6 +16,14 @@ I'll keep the list updated as and when I find new blogs. If you find a blog that
 
 Title | Company | Date
 ------|---------|-----
+[Advancing Invoice Document Processing at Uber using GenAI](https://www.uber.com/en-IN/blog/advancing-invoice-document-processing-using-genai/?uclick_id=2af70869-abd9-4fca-bed8-596821868c00) | Uber | Apr, 2025
+[Building Dash: How RAG and AI agents help us meet the needs of businesses](https://dropbox.tech/machine-learning/building-dash-rag-multi-step-ai-agents-business-users) | Dropbox | Apr, 2025
+[Improving Pinterest Search Relevance Using Large Language Models](https://medium.com/pinterest-engineering/improving-pinterest-search-relevance-using-large-language-models-4cd938d4e892) | Pinterest | Apr, 2025
+[Using LLM to transcribe restaurant menu photos](https://careersatdoordash.com/blog/doordash-llm-transcribe-menu/) | DoorDash | Mar, 2025
+[Automated GenAI-driven search quality evaluation](https://www.linkedin.com/blog/engineering/ai/automated-genai-driven-search-quality-evaluation) | LinkedIn | Dec, 2024
+[How DoorDash leverages LLMs for better search retrieval](https://careersatdoordash.com/blog/how-doordash-leverages-llms-for-better-search-retrieval/) | DoorDash | Nov, 2024
+[Unleashing the power of large language models at DoorDash for a seamless shopping adventure](https://careersatdoordash.com/blog/unleashing-the-power-of-large-language-models-at-doordash-for-a-seamless-shopping-adventure/) | DoorDash | Oct, 2024
+[Automation Platform v2: Improving Conversational AI at Airbnb](https://medium.com/airbnb-engineering/automation-platform-v2-improving-conversational-ai-at-airbnb-d86c9386e0cb) | Airbnb | Oct, 2024
 [Leveraging RAG-powered LLMs for Analytical Tasks](https://engineering.grab.com/transforming-the-analytics-landscape-with-RAG-powered-LLM) | Grab | Oct, 2024
 [Fine-Tuning an LLM to Extract Dynamically Specified Attributes](https://engineering.mercari.com/en/blog/entry/20240913-fine-tuning-an-llm-to-extract-dynamically-specified-attributes/) | Mercari | Sep, 2024
 [QueryGPT – Natural Language to SQL Using Generative AI](https://www.uber.com/en-JP/blog/query-gpt/?uclick_id=eaf82e80-940f-4baf-87d6-76c4fbd37f1a) | Uber | Sep, 2024
