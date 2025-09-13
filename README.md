@@ -16,7 +16,14 @@ I'll keep the list updated as and when I find new blogs. If you find a blog that
 
 Title | Company | Date
 ------|---------|-----
-[Advancing Invoice Document Processing at Uber using GenAI](https://www.uber.com/en-IN/blog/advancing-invoice-document-processing-using-genai/?uclick_id=2af70869-abd9-4fca-bed8-596821868c00) | Uber | Apr, 2025
+[A scalable LLM approach to enhancing chatbot knowledge with user-generated content](https://careersatdoordash.com/blog/doordash-llm-chatbot-knowledge-with-ugc/) | DoorDash | Aug, 2025
+[Unlocking Financial Insights with Finch: Uber’s Conversational AI Data Agent](https://www.uber.com/en-JP/blog/unlocking-financial-insights-with-finch/) | Uber | Jul, 2025
+[Profile Generation with LLMs: Understanding consumers, merchants, and items](https://careersatdoordash.com/blog/doordash-profile-generation-llms-understanding-consumers-merchants-and-items/) | DoorDash | Jul, 2025
+[Advancing Menu Content with AI: How DoorDash uses AI to generate menu descriptions](https://careersatdoordash.com/blog/doordash-ai-menu-descriptions/) | DoorDash | Jun, 2025
+[Enhanced Agentic-RAG: What If Chatbots Could Deliver Near-Human Precision?](https://www.uber.com/en-JP/blog/enhanced-agentic-rag/) | Uber | May, 2025
+[Evolution of Product Classification at Shopify: From Categories to Comprehensive Product Understanding](https://shopify.engineering/evolution-product-classification) | Shopify | May, 2025
+[Building the next generation of job search at LinkedIn](https://www.linkedin.com/blog/engineering/ai/building-the-next-generation-of-job-search-at-linkedin) | LinkedIn | May, 2025
+[Advancing Invoice Document Processing at Uber using GenAI](https://www.uber.com/en-IN/blog/advancing-invoice-document-processing-using-genai/) | Uber | Apr, 2025
 [Building Dash: How RAG and AI agents help us meet the needs of businesses](https://dropbox.tech/machine-learning/building-dash-rag-multi-step-ai-agents-business-users) | Dropbox | Apr, 2025
 [Improving Pinterest Search Relevance Using Large Language Models](https://medium.com/pinterest-engineering/improving-pinterest-search-relevance-using-large-language-models-4cd938d4e892) | Pinterest | Apr, 2025
 [Using LLM to transcribe restaurant menu photos](https://careersatdoordash.com/blog/doordash-llm-transcribe-menu/) | DoorDash | Mar, 2025
